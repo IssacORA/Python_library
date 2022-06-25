@@ -1,5 +1,10 @@
--
+## import and initiaite
 ```
-import collections.deque
+deque = collections.deque()
 ```
+## common method
+```
+deque.append()
+deque.appendleft()
+deque.extend()
 
